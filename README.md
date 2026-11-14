@@ -9,23 +9,17 @@
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [TestRail](#testrail)
-  - [Zephyr Enterprise](#zephyr-enterprise)
-  - [Xray](#xray)
-  - [Qase](#qase)
-  - [BrowserStack Test Management](#browserstack-test-management)
 - [Open-Source Software](#-open-source-software)
-  - [Kiwi TCMS](#kiwi-tcms)
-  - [TestLink](#testlink)
-  - [TestPlanIt](#testplanit)
-  - [QA Studio](#qa-studio)
-  - [Squash TM](#squash-tm)
-  - [Suitest](#suitest)
-  - [FitNesse](#fitnesse)
-  - [Tuleap](#tuleap)
 - [Comparison at a Glance](#-comparison-at-a-glance)
 - [Contributing](#-contributing)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global dedicated test management software market is valued at approximately **$1.1 billion to $1.3 billion** (with the broader software testing and QA industry exceeding **$50 billion**), expanding at a CAGR of ~10–15% propelled by continuous integration, DevOps, and AI-driven testing workflows. The sector is **moderately fragmented**: while ecosystem heavyweights (such as Atlassian/Jira marketplace leaders, Idera, SmartBear, and Tricentis) capture large enterprise footprints, high agility requirements and API-first CI/CD pipelines enable innovative independent platforms (e.g., BrowserStack, Qase) and rich open-source solutions to command substantial developer mindshare rather than resulting in a single "winner-take-all" monopoly.
 
 ---
 
