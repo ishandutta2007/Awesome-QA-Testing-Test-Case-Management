@@ -1,8 +1,6 @@
-# Awesome-QA-Testing-Test-Case-Management
+# Awesome QA Testing & Test Case Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-# Awesome QA Testing & Test Case Management
-
-> A curated list of top QA Testing and Test Case Management platforms — both SaaS/Hosted commercial solutions and open-source alternatives for organizing test cases, planning runs, and tracking execution results.
+> A curated list of top QA Testing and Test Case Management (TCM) platforms, tools, and software — comparing both SaaS / cloud solutions and self-hosted open-source alternatives for test case authoring, execution tracking, test plans, and CI/CD automation integration.
 > 🌟 Star this repo if you find it useful! 🌟
 
 ---
@@ -14,6 +12,7 @@
 - [Open-Source Software](#-open-source-software)
 - [Comparison at a Glance](#-comparison-at-a-glance)
 - [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
@@ -110,20 +109,28 @@ Tuleap is an open-source Application Lifecycle Management (ALM) platform providi
 ## 📊 Comparison at a Glance
 
 | Software | License | Stack | Requirements Traceability | Automation Integration | Self-Hosted | Best For |
-|----------|---------|-------|---------------------------|------------------------|-------------|----------|
-| **TestRail** | Proprietary | Cloud | (Plugin) | CLI/API | ❌ | Dedicated standalone test management |
-| **Zephyr** | Proprietary | Jira plugin | ✅ | ✅ | ❌ | Jira-centric large-scale libraries |
-| **Xray** | Proprietary | Jira plugin | ✅ Strong | ✅ | ❌ | Requirements traceability in Jira |
-| **Qase** | Proprietary | Cloud | ✅ | ✅ API | ❌ | Modern automation-first test management |
-| **BrowserStack** | Proprietary | Cloud | (2-way binding) | ✅ | ❌ | BrowserStack device cloud users |
-| **Kiwi TCMS** | GPL-2.0+ | Python/Django | (IEEE 829) | ✅ Plugins | ✅ | Proven OSS test management |
-| **TestLink** | GPL-2.0 | PHP/MySQL | ✅ Strong | DIY | ✅ | Budget OSS with basic needs |
-| **TestPlanIt** | Open Source | TypeScript/Docker | (Check) | (Check) | ✅ | Modern OSS alternative |
-| **QA Studio** | AGPL-3.0 | SvelteKit/Postgres | ✅ Hierarchical | (API-first) | ✅ | Fast modern self-hosted TCMS |
-| **Squash TM** | LGPL (core) | Java | ✅ Strong | ✅ (Squash AUTOM) | ✅ | Requirements + Jira coverage |
-| **Suitest** | Apache-2.0 | Vite/React | (MCP-native) | ✅ Multi-target | ✅ | MCP-native + optional AI |
+|---|---|---|---|---|---|---|
 | **FitNesse** | Open Source | Java | (Wiki-based) | ✅ Acceptance | ✅ | Collaborative acceptance testing |
-| **Tuleap** | GPL/Commercial | PHP/MySQL | ✅ Strong | (Check) | ✅ | ALM + traceability (Enterprise test module) |
+| **TestLink** | GPL-2.0 | PHP / MySQL | ✅ Strong | DIY / API | ✅ | Budget OSS with basic needs |
+| **Kiwi TCMS** | GPL-2.0+ | Python / Django | (IEEE 829) | ✅ Plugins | ✅ | Proven OSS test management |
+| **Macaca Reliable** | MIT | Node.js / Vue | (CI/CD driven) | ✅ Distributed | ✅ | Distributed automation clusters |
+| **Tarantula** | GPL-3.0 | Ruby on Rails | ✅ Tag-based | Redmine / Jira | ✅ | Fast agile test execution tracking |
+| **TMT** | MIT | Python / YAML | ✅ Git-native | ✅ Native CI/CD | ✅ | Test-management-as-code & GitOps |
+| **Quack** | Apache-2.0 | Java / React | ✅ Hierarchical | ✅ REST API | ✅ | Lightweight modern web TCMS |
+| **UnitTCMS** | MIT | TypeScript / Vue | (Folder suites) | REST API | ✅ | Fast zero-bloat self-hosted TCMS |
+| **TestPlanIt** | MIT | TypeScript / Next.js | ✅ Impact analysis | ✅ CLI / API | ✅ | Modern OSS alternative to TestRail |
+| **Suitest** | Apache-2.0 | Vite / React | (MCP-native) | ✅ Multi-target | ✅ | MCP-native + optional AI |
+| **Tesbo Test Manager** | MIT | TypeScript / Node.js | ✅ Modular | ✅ CI/CD | ✅ | AI-ready customizable test cycles |
+| **Thorotest** | MIT | Python / FastAPI | ✅ Requirements | ✅ Jira / CI | ✅ | Self-hosted with BYO-AI test generation |
+| **QA Studio** | AGPL-3.0 | SvelteKit / Postgres | ✅ Hierarchical | ✅ Playwright/API | ✅ | Fast modern self-hosted TCMS |
+| **ttgo** | PolyForm Noncommercial | Go / SQLite | ✅ Traceability | ✅ CLI / REST | ✅ | Zero-maintenance single-binary TCMS |
+| **Squash TM** | LGPL (core) | Java | ✅ Strong | ✅ (Squash AUTOM) | ✅ | Requirements + Jira coverage |
+| **Tuleap** | GPL / Commercial | PHP / MySQL | ✅ Strong | ✅ ALM | ✅ | ALM + traceability (Enterprise test module) |
+| **BrowserStack** | Proprietary | Cloud | (2-way binding) | ✅ Real devices | ❌ | BrowserStack device cloud users |
+| **TestRail** | Proprietary | Cloud / Server | (Plugin) | CLI / REST API | ❌ | Dedicated standalone test management |
+| **Xray** | Proprietary | Jira plugin | ✅ Strong | ✅ Native | ❌ | Requirements traceability in Jira |
+| **Zephyr** | Proprietary | Jira plugin | ✅ Standard | ✅ CI/CD plugins | ❌ | Jira-centric large-scale test suites |
+| **Qase** | Proprietary | Cloud | ✅ Traceability | ✅ API & Reporters | ❌ | Modern automation-first test management |
 
 ---
 
