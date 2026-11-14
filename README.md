@@ -52,61 +52,61 @@ Commercial, cloud-hosted QA Testing and Test Case Management platforms. These ar
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven QA Testing and Test Case Management tools. Sorted by GitHub stars in descending order:
+Self-hosted, community-driven QA Testing and Test Case Management tools. Sorted by GitHub_Stars in descending order:
 
-### FitNesse [![GitHub stars](https://img.shields.io/github/stars/unclebob/fitnesse?style=social&color=white)](https://github.com/unclebob/fitnesse/stargazers)
+### FitNesse [![GitHub_Stars](https://img.shields.io/github/stars/unclebob/fitnesse?style=social&color=white)](https://github.com/unclebob/fitnesse/stargazers)
 **Stack:** Java | **License:** Open Source | **Repository:** [unclebob/fitnesse](https://github.com/unclebob/fitnesse)  
 FitNesse is a fully integrated standalone wiki and acceptance testing framework. It functions as a collaboration tool where wiki pages run directly as tests against the application, enabling product owners, testers, and developers to collaboratively define acceptance tests and verify actual results without vendor lock-in. **Best for:** Teams wanting collaborative acceptance testing with business stakeholders in an interactive wiki format.
 
-### TestLink [![GitHub stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code?style=social&color=white)](https://github.com/TestLinkOpenSourceTRMS/testlink-code/stargazers)
+### TestLink [![GitHub_Stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code?style=social&color=white)](https://github.com/TestLinkOpenSourceTRMS/testlink-code/stargazers)
 **Stack:** PHP / MySQL | **License:** GPL-2.0 | **Repository:** [TestLinkOpenSourceTRMS/testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code)  
 TestLink is a long-standing web-based test management system with requirements tracking, hierarchical test case organization, test prioritization, milestone definitions, and integration with bug trackers including Bugzilla, Jira, and Mantis. **Best for:** Budget-constrained teams with internal maintenance capability needing structured test case and execution tracking.
 
-### Kiwi TCMS [![GitHub stars](https://img.shields.io/github/stars/kiwitcms/kiwitcms?style=social&color=white)](https://github.com/kiwitcms/kiwitcms/stargazers)
+### Kiwi TCMS [![GitHub_Stars](https://img.shields.io/github/stars/kiwitcms/kiwitcms?style=social&color=white)](https://github.com/kiwitcms/kiwitcms/stargazers)
 **Stack:** Python / Django / PostgreSQL | **License:** GPL-2.0+ | **Repository:** [kiwitcms/kiwitcms](https://github.com/kiwitcms/kiwitcms)  
 Kiwi TCMS is the most widely adopted open-source test management system, featuring IEEE 829 compatibility, active community maintenance, and rich automation framework plugins. It offers multi-tenant progress tracking, test plans, test runs, and 1-click defect reporting directly into Jira, GitHub, GitLab, and Bugzilla. **Best for:** Teams wanting a proven, actively maintained enterprise-grade open-source TCMS.
 
-### Macaca Reliable [![GitHub stars](https://img.shields.io/github/stars/macacajs/reliable?style=social&color=white)](https://github.com/macacajs/reliable/stargazers)
+### Macaca Reliable [![GitHub_Stars](https://img.shields.io/github/stars/macacajs/reliable?style=social&color=white)](https://github.com/macacajs/reliable/stargazers)
 **Stack:** Node.js / Vue.js | **License:** MIT | **Repository:** [macacajs/reliable](https://github.com/macacajs/reliable)  
 Reliable is an open-source test management suite and execution platform designed with continuous delivery support. It provides distributed testing cluster management, automated test execution dispatching, and test artifact aggregation. **Best for:** Distributed CI/CD pipelines and cross-platform automation test management.
 
-### Tarantula [![GitHub stars](https://img.shields.io/github/stars/prove/tarantula?style=social&color=white)](https://github.com/prove/tarantula/stargazers)
+### Tarantula [![GitHub_Stars](https://img.shields.io/github/stars/prove/tarantula?style=social&color=white)](https://github.com/prove/tarantula/stargazers)
 **Stack:** Ruby on Rails | **License:** GPL-3.0 | **Repository:** [prove/tarantula](https://github.com/prove/tarantula)  
 Tarantula is an open-source test management tool built for agile projects, featuring rich tagging, fuzzy test runs, requirements tracking, and integration with Jira, Bugzilla, and Redmine. **Best for:** Agile development teams looking for a fast, tag-oriented testing repository.
 
-### TMT (Test Management Tool) [![GitHub stars](https://img.shields.io/github/stars/teemtee/tmt?style=social&color=white)](https://github.com/teemtee/tmt/stargazers)
+### TMT (Test Management Tool) [![GitHub_Stars](https://img.shields.io/github/stars/teemtee/tmt?style=social&color=white)](https://github.com/teemtee/tmt/stargazers)
 **Stack:** Python / CLI | **License:** MIT | **Repository:** [teemtee/tmt](https://github.com/teemtee/tmt)  
 TMT (Test Management Tool) is a modern test-management-as-code solution maintained under the Fedora/Red Hat ecosystem. It manages test metadata, plans, environments, and test execution directly alongside git repositories using human-readable YAML specifications. **Best for:** Engineering teams practicing GitOps and test-management-as-code directly in CI/CD.
 
-### Quack [![GitHub stars](https://img.shields.io/github/stars/greatbit/quack?style=social&color=white)](https://github.com/greatbit/quack/stargazers)
+### Quack [![GitHub_Stars](https://img.shields.io/github/stars/greatbit/quack?style=social&color=white)](https://github.com/greatbit/quack/stargazers)
 **Stack:** Java / Spring Boot / React | **License:** Apache-2.0 | **Repository:** [greatbit/quack](https://github.com/greatbit/quack)  
 Quack is a modern web-based test management system providing hierarchical test cases, launch execution plans, test case cloning, and seamless defect tracking integrations with Jira and tracker systems. **Best for:** Agile teams wanting a lightweight, clean web UI for manual and automated test suites.
 
-### UnitTCMS [![GitHub stars](https://img.shields.io/github/stars/kimatata/unittcms?style=social&color=white)](https://github.com/kimatata/unittcms/stargazers)
+### UnitTCMS [![GitHub_Stars](https://img.shields.io/github/stars/kimatata/unittcms?style=social&color=white)](https://github.com/kimatata/unittcms/stargazers)
 **Stack:** TypeScript / Vue / Docker | **License:** MIT | **Repository:** [kimatata/unittcms](https://github.com/kimatata/unittcms)  
 UnitTCMS is a lightweight, modern open-source test case management system designed specifically for secure, self-hosted environments. It offers project-based test suites, folder hierarchies, reusable test runs, and clean workflows without page-reload bloat. **Best for:** Teams looking for a clean, modern self-hosted interface with zero fuss.
 
-### TestPlanIt [![GitHub stars](https://img.shields.io/github/stars/TestPlanIt/testplanit?style=social&color=white)](https://github.com/TestPlanIt/testplanit/stargazers)
+### TestPlanIt [![GitHub_Stars](https://img.shields.io/github/stars/TestPlanIt/testplanit?style=social&color=white)](https://github.com/TestPlanIt/testplanit/stargazers)
 **Stack:** TypeScript / Next.js / PostgreSQL / Docker | **License:** MIT | **Repository:** [TestPlanIt/testplanit](https://github.com/TestPlanIt/testplanit)  
 TestPlanIt is a modern open-source test management platform built with Next.js and Prisma. It features rich-text test authoring (Tiptap), Git-driven impact analysis, CLI-based CI/CD result ingestion, and Jira Forge integration. **Best for:** Modern engineering organizations seeking a self-hosted alternative to proprietary platforms.
 
-### Suitest [![GitHub stars](https://img.shields.io/github/stars/suiflex/suitest?style=social&color=white)](https://github.com/suiflex/suitest/stargazers)
+### Suitest [![GitHub_Stars](https://img.shields.io/github/stars/suiflex/suitest?style=social&color=white)](https://github.com/suiflex/suitest/stargazers)
 **Stack:** Vite / React 19 / MCP-native | **License:** Apache-2.0 | **Repository:** [suiflex/suitest](https://github.com/suiflex/suitest)  
 Suitest is a self-hostable, MCP-native testing platform featuring manual test management, deterministic runs, and optional AI integration. It supports execution across browsers (Playwright), APIs, mobile (Appium), and Kubernetes. **Best for:** Teams adopting Model Context Protocol (MCP) workflows with optional AI execution.
 
-### Tesbo Test Manager [![GitHub stars](https://img.shields.io/github/stars/QAbleHQ/Tesbo-Test-Manager?style=social&color=white)](https://github.com/QAbleHQ/Tesbo-Test-Manager/stargazers)
+### Tesbo Test Manager [![GitHub_Stars](https://img.shields.io/github/stars/QAbleHQ/Tesbo-Test-Manager?style=social&color=white)](https://github.com/QAbleHQ/Tesbo-Test-Manager/stargazers)
 **Stack:** TypeScript / Node.js | **License:** MIT | **Repository:** [QAbleHQ/Tesbo-Test-Manager](https://github.com/QAbleHQ/Tesbo-Test-Manager)  
 Tesbo Test Manager is an open-source test case management platform designed for QA teams to self-host, organize test cycles, manage test cases, and integrate AI into QA workflows without vendor lock-in. **Best for:** Teams wanting customizable test cycle tracking and AI experimentation.
 
-### Thorotest [![GitHub stars](https://img.shields.io/github/stars/ecamuto/thorotest?style=social&color=white)](https://github.com/ecamuto/thorotest/stargazers)
+### Thorotest [![GitHub_Stars](https://img.shields.io/github/stars/ecamuto/thorotest?style=social&color=white)](https://github.com/ecamuto/thorotest/stargazers)
 **Stack:** Python / FastAPI / Docker | **License:** MIT | **Repository:** [ecamuto/thorotest](https://github.com/ecamuto/thorotest)  
 Thorotest is a self-hosted test management platform unifying manual and automated suites, requirements traceability, Jira & CI integration, and AI-assisted test generation (bring-your-own-API-key). **Best for:** Small teams seeking AI test authoring assistance with full local data privacy.
 
-### QA Studio [![GitHub stars](https://img.shields.io/github/stars/QAStudio-Dev/studio?style=social&color=white)](https://github.com/QAStudio-Dev/studio/stargazers)
+### QA Studio [![GitHub_Stars](https://img.shields.io/github/stars/QAStudio-Dev/studio?style=social&color=white)](https://github.com/QAStudio-Dev/studio/stargazers)
 **Stack:** SvelteKit / PostgreSQL / Prisma | **License:** AGPL-3.0 | **Repository:** [QAStudio-Dev/studio](https://github.com/QAStudio-Dev/studio)  
 QA Studio is a fast, API-first open-source test management platform built with SvelteKit. It supports hierarchical test suites, execution across multiple environments, rich media attachments (screenshots, videos, logs, stack traces), and Playwright integration. **Best for:** Teams prioritizing speed, modern developer stacks, and rich test run artifacts.
 
-### ttgo [![GitHub stars](https://img.shields.io/github/stars/runetsk/ttgo?style=social&color=white)](https://github.com/runetsk/ttgo/stargazers)
+### ttgo [![GitHub_Stars](https://img.shields.io/github/stars/runetsk/ttgo?style=social&color=white)](https://github.com/runetsk/ttgo/stargazers)
 **Stack:** Go / SQLite | **License:** PolyForm Noncommercial | **Repository:** [runetsk/ttgo](https://github.com/runetsk/ttgo)  
 ttgo is an ultra-lightweight, self-hosted test management tool packaged as a single Go binary with SQLite. It offers test run execution, analytics with flaky-test detection, requirements traceability, and a CLI/REST API. **Best for:** Resource-constrained teams wanting a zero-maintenance, single-binary test management tool.
 
