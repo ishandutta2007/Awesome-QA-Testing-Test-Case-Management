@@ -1,18 +1,32 @@
-# Awesome QA Testing & Test Case Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome QA & Test Case Management Banner" width="100%" />
+</p>
 
-> A curated list of top QA Testing and Test Case Management (TCM) platforms, tools, and software — comparing both SaaS / cloud solutions and self-hosted open-source alternatives for test case authoring, execution tracking, test plans, and CI/CD automation integration.
+# Awesome QA Testing & Test Case Management 🚀
+
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 📚 A curated list of top QA Testing and Test Case Management (TCM) platforms, tools, and software — comparing both SaaS / cloud solutions and self-hosted open-source alternatives for test case authoring, execution tracking, test plans, and CI/CD automation integration.  
 > 🌟 Star this repo if you find it useful! 🌟
 
 ---
 
 ## 📋 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-- [Open-Source Software](#-open-source-software)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🟦 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🟩 Open-Source Software](#-open-source-software)
+- [📊 Comparison at a Glance](#-comparison-at-a-glance)
+- [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [📄 License](#-license)
 
 ---
 
@@ -144,6 +158,23 @@ Contributions are welcome! If you know of an open-source QA Testing or Test Case
 - Why it stands out
 
 Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source. Note that the open-source ecosystem offers strong options: **Kiwi TCMS** is the most mature and widely adopted open-source TCMS with IEEE 829 compatibility [citation:3], **TestLink** remains viable for budget-constrained teams with internal maintenance capability [citation:4][citation:11], **TestPlanIt** and **QA Studio** represent newer modern alternatives with active development [citation:1][citation:6], and **Squash TM** provides the strongest requirements-to-test traceability with Jira integration in its open-core edition [citation:7]. **Suitest** is notable for its MCP-native architecture with optional AI and broad execution target support [citation:15].
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated repository! If this resource saved you time or helped you choose the right QA & Test Case Management solution, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and contribute** by adding new tools, guides, or updates.
+- 📢 **Share** with fellow QA engineers, testers, and engineering teams.
+- ☕ **Buy me a coffee**: If you appreciate this work, you can sponsor and support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-QA-Testing-Test-Case-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-QA-Testing-Test-Case-Management&type=date&legend=top-left)
 
 ---
 
