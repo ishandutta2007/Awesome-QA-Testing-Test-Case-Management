@@ -33,13 +33,13 @@
 
 Commercial, cloud-hosted QA Testing and Test Case Management platforms. These are not open-source but are included as reference points for feature comparison.
 
-| Platform | Deployment / Integration | Starting Price | Free Tier / Trial Limits | Key Features |
-|---|---|---|---|---|
-| **TestRail** | Cloud / Server (Standalone) | $38 / user / month (Professional) or $25 / user / month (Essentials, up to 5 users) | 30-day free trial (Full features, no credit card required; no permanent free plan) | Structured test case repository, milestone runs, custom fields, audit logs, REST API |
-| **Zephyr (Enterprise & Scale)** | Jira-native (Scale/Squad) & Standalone Cloud (Enterprise) | $10 / month flat base (Zephyr Scale for 1–10 Jira users) | 30-day free trial on Atlassian Marketplace (Matches host Jira user count; no permanent free plan) | Deep Jira ecosystem integration, traceability matrix, automated test execution results |
-| **Xray** | Jira-native (Cloud / Data Center) | $10 / month flat base (Standard edition for 1–10 Jira users) | 30-day free trial on Atlassian Marketplace (All Jira users licensed; no permanent free plan) | Requirement-to-defect traceability, BDD/Gherkin support, CI/CD REST API, coverage reports |
-| **Qase** | Cloud (Standalone & Integrations) | $35 / user / month (Teams plan, min 5 seats; billed annually) | Permanent Free tier: Up to 4 users, 2 projects, 2 concurrent runs, 500MB storage, 30-day run history (also 14-day Teams trial) | Modern developer-first UI, automated test result ingestion, defect tracking, Jira/GitLab integration |
-| **BrowserStack Test Management** | Cloud (BrowserStack Ecosystem) | $29.80 / user / month ($149 / month for 5-user team pack) | Permanent Free tier: Up to 5 users, unlimited test cases, unlimited test runs, 10GB storage, 30-day run history | AI-assisted test authoring, rich media attachments, device cloud execution integration |
+| Platform | Company & Scale (Valuation / Revenue) | Deployment / Integration | Starting Price | Free Tier / Trial Limits | Key Features |
+|---|---|---|---|---|---|
+| **BrowserStack Test Management** | **BrowserStack** (~$4.0B valuation, ~$250M+ ARR) | Cloud (BrowserStack Ecosystem) | $29.80 / user / month ($149 / month for 5-user team pack) | Permanent Free tier: Up to 5 users, unlimited test cases, unlimited test runs, 10GB storage, 30-day run history | AI-assisted test authoring, rich media attachments, device cloud execution integration |
+| **TestRail** | **Idera, Inc.** (~$3.0B valuation, ~$300M+ revenue) | Cloud / Server (Standalone) | $38 / user / month (Professional) or $25 / user / month (Essentials, up to 5 users) | 30-day free trial (Full features, no credit card required; no permanent free plan) | Structured test case repository, milestone runs, custom fields, audit logs, REST API |
+| **Xray** | **Idera, Inc. / Xblend** (~$3.0B parent valuation, ~$300M+ corporate revenue) | Jira-native (Cloud / Data Center) | $10 / month flat base (Standard edition for 1–10 Jira users) | 30-day free trial on Atlassian Marketplace (All Jira users licensed; no permanent free plan) | Requirement-to-defect traceability, BDD/Gherkin support, CI/CD REST API, coverage reports |
+| **Zephyr (Enterprise & Scale)** | **SmartBear Software** (~$1.8B–$2.0B valuation, ~$150M+ ARR) | Jira-native (Scale/Squad) & Standalone Cloud (Enterprise) | $10 / month flat base (Zephyr Scale for 1–10 Jira users) | 30-day free trial on Atlassian Marketplace (Matches host Jira user count; no permanent free plan) | Deep Jira ecosystem integration, traceability matrix, automated test execution results |
+| **Qase** | **Qase Inc.** (~$42M valuation, ~$4.7M ARR) | Cloud (Standalone & Integrations) | $35 / user / month (Teams plan, min 5 seats; billed annually) | Permanent Free tier: Up to 4 users, 2 projects, 2 concurrent runs, 500MB storage, 30-day run history (also 14-day Teams trial) | Modern developer-first UI, automated test result ingestion, defect tracking, Jira/GitLab integration |
 
 ---
 
